@@ -5,6 +5,8 @@ A database-driven intranet web application designed to track and manage IT suppo
 ## Business Purpose
 This application simulates the type of internal business systems used by district technology departments to manage support requests, track issue resolution, and maintain accountability for IT operations. It replaces manual spreadsheets and email-based tracking with a centralized, secure database system.
 
+<img width="877" height="344" alt="image" src="https://github.com/user-attachments/assets/230ff5d1-5115-402c-9367-b37ad09f6ebd" />
+
 ## Tech Stack
 - **Framework:** ASP.NET Core MVC (.NET 8)
 - **Language:** C#
